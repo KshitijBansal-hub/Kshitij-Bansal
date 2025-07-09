@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=KshitijBansal-hub&label=Profile%20Views&color=0e75b6&style=flat)
 
-<h1 align="center"> Hi there, Its me KOMAL! 🙋🏻‍♀️</h1>
+<h1 align="center"> Hi there, Its me Kshitij! 🙋🏻‍♀️</h1>
 
 ### About Me
 
