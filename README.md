@@ -49,7 +49,7 @@ I'm a **Data Analyst** with a Bachelor's Degree in Electronics and Communication
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-bansal-04867718b/) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kshitijbansal108@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://github.com/KshitijBansal-hub)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://github.com/Kshitij-Bansal)
 
 I’m always open to discussing new projects, ideas, or opportunities to collaborate. Feel free to reach out!
 
