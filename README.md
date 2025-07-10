@@ -10,7 +10,6 @@ I'm a **Data Analyst** with a Bachelor's Degree in Electronics and Communication
 - 📊 Passionate about creating **data-driven solutions** and developing insightful **dashboards**.
 - 💻 Enjoy coding in **Python**, focusing on creating useful tools and projects.
 - 🎨 Always ready to apply my skills to enhance projects.
-- 
 ---
 
 ### Skills
